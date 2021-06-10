@@ -1,0 +1,4 @@
+.vscode
+strace
+*.o
+test
